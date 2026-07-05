@@ -1,0 +1,7 @@
+{
+  "token": "your token here",
+  "ffmpeg": "ffmpeg.exe",
+  "music": "music/sample.mp3",
+  "lyrics": "lyrics/sample.json",
+  "vc_status": "いつかオトナになれるといいね。"
+}
