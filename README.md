@@ -5,3 +5,6 @@
 一応悪用禁止のため、具体的な導入方法はありません
 あくまで、娯楽目的で使用してください
 このプロジェクトで発生した問題について一切責任を負いません
+
+pre
+https://youtube.com/watch?v=uzjJhlp4u8Y&feature=youtu.be
